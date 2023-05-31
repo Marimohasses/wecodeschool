@@ -1,0 +1,2 @@
+# wecodeschool
+vanilla-weather-app
